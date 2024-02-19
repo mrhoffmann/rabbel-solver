@@ -209,3 +209,4 @@ for length, words in sorted(result.items()):
     index += 1
 
 print(f"Längsta ordet idag var {MAX_LEN_WORD} bokstäver.\nDenna beräkning tog: {execution_time} sekunder")
+input("Tryck valfri knapp för att avsluta...")
