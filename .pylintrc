@@ -1,0 +1,3 @@
+[MESSAGES CONTROL]
+# Disable the missing-docstring message
+disable=C0111

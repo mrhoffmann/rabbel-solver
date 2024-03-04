@@ -1,3 +1,5 @@
-
+selenium
+fake-useragent
+pyperclip
 requests
 bs4
